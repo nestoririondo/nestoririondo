@@ -1,4 +1,4 @@
-👋 Hi, I’m Néstor
+👋 Hi, I’m Néstor, a Full Stack Developer.
 
 ![nestoririondo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nestoririondo&theme=tokyonight&hide_border=true)
 
